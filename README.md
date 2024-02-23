@@ -43,17 +43,17 @@ A visual and programmatic assessment was performed within `Investigate_a_Dataset
 > _Analysis was done based on number of appointments and not by patients. Several of the records had to be removed due to data inaccuracies either in age or where the scheduled date was after the appointment day. The data is also limited in understanding why an appointment was missed. While the analysis can provide categorical insights, there were no inferential statistics performed during this analysis._
 
 #### Appointments by Gender
-<img src="./imgs/appt_made_vs_missed_by_gender.png">
+<img src="appt_made_vs_missed_by_gender.png">
 
 From the analysis made we can see that females have the highest percentage of appointments and men show up to their appointments at a higher percentage of their appointments than women.
 
 #### Appointments by Day
-<img src="./imgs/appt_made_vs_missed_by_appt_day.png">
+<img src="appt_made_vs_missed_by_appt_day.png">
 
 Tuesday and Wednesday account for 47.60% of all appointments. There are no appointments on Sunday. Thursday and Saturday have the highest percentage of appointments made. Monday and Wednesday have the highest percentage of appointments missed.
 
 #### Appointments by Age Group
-<img src="./imgs/appt_made_vs_missed_by_age_group.png">
+<img src="appt_made_vs_missed_by_age_group.png">
 
 Appointments for younger patients have a higher percentage of missed appointments than those of the older patients, excluding patients 100+ years old. Patients 100 years old or older miss 60% of their appointments.
 
